@@ -1,3 +1,8 @@
+<div>
+<img src="./octobardo.png" height="400" align="right" />
+</div>
+
+
 [__Português brasileiro__](#pt-language) | [__English__](#en-language) | [__Français__](#fr-language)
 
 ## <a name="pt-language">Oi, eu sou o Lucas</a>
@@ -11,8 +16,27 @@
 - Gosto muito de CSS puro;
 - Querendo contribuir com a comunidade open-source de JavaScript;
 - Eu gosto bastante de Ruby :heart::heart::heart:
+- Nas horas vagas, escrevo música. :musical_score:
+- Sou viciado em queijo.
 
-##### Tecnologias
+#### Tecnologias principais
+<img src="./main-stack.png" alt="Tecnologias principais" />
+
+##### Conhecimentos adicionais (nível básico - intermediário)
+- Angular
+- Next.js
+- Express
+- Java
+- Ruby
+
+P.S.: A lista não está em ordem de nível de conhecimento.
+
+#### Fale comigo
+- [Linkedin](https://www.linkedin.com/in/lucasmribeiro7)
+- [Github](https://www.github.com/1ribeirolucas)
+- [Instagram](https://www.instagram.com/devpreto)
+- [Portfolio](https://1ribeirolucas.vercel.app)
+
 
 
 
