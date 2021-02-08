@@ -1,16 +1,29 @@
-### Hi there 👋
+[__Português brasileiro__](#pt-language) | [__English__](#en-language) | [__Français__](#fr-language)
 
-<!--
-**1ribeiroLucas/1ribeiroLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <a name="pt-language">Oi, eu sou o Lucas</a>
+### Desenvolvedor Front-End/Frontend
+***
 
-Here are some ideas to get you started:
+#### Sobre mim
+- Meu nome é Lucas, mas pode me chamar de Bardo;
+- Desenvolvedor Front-End/Frontend em formação pela **Trybe**;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### <a name="en-language">Hi, I'm Lucas</a>
+#### Front-end/Frontend Developer
+***
+**Work in progress.**
+
+Make yourself at home and grab a drink. We got beers!
+
+
+
+
+### <a name="fr-language">Salut, je suis Lucas</a>
+#### Développeur Front-End/Frontend
+***
+**Travail on cours.**
+
+En attendant, prenez un verre et installez-vouz. Nous avons de la bière!
