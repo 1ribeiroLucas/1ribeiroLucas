@@ -37,8 +37,7 @@ P.S.: A lista não está em ordem de nível de conhecimento.
 - [Instagram](https://www.instagram.com/devpreto)
 - [Portfolio](https://1ribeirolucas.vercel.app)
 
-
-
+Baseado em vários READMEs [deste repositório](https://github.com/kautukkundan/Awesome-Profile-README-templates). Desculpa, listar todo mundo aqui vai ocupar muito espaço.
 
 ***
 ## <a name="en-language">Hi, I'm Lucas</a>
