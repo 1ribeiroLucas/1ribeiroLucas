@@ -39,6 +39,8 @@ P.S.: A lista não está em ordem de nível de conhecimento.
 
 Baseado em vários READMEs [deste repositório](https://github.com/kautukkundan/Awesome-Profile-README-templates). Desculpa, listar todo mundo aqui vai ocupar muito espaço.
 
+Ícones por [Simple Icons](https://simpleicons.org)
+
 ***
 ## <a name="en-language">Hi, I'm Lucas</a>
 ### :computer: Front-end/Frontend Developer :computer:
