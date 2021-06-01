@@ -1,8 +1,3 @@
-<div>
-<img src="./octobardo.png" height="400" align="right" />
-</div>
-
-
 [__Português brasileiro__](#pt-language) | [__English__](#en-language) | [__Français__](#fr-language)
 
 ## <a name="pt-language">Oi, eu sou o Lucas</a>
