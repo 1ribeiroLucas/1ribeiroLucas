@@ -42,6 +42,10 @@ Baseado em vários READMEs [deste repositório](https://github.com/kautukkundan/
 
 Ícones por [Icongram](https://icongr.am)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ribeirolucas&layout=compact" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=1ribeirolucas&show_icons=true&theme=highcontrast&count_private=true" alt="Github Status" />
+
+
 ***
 ## English version coming soon/Version française à venir
 
