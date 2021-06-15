@@ -41,9 +41,13 @@
 Baseado em vários READMEs [deste repositório](https://github.com/kautukkundan/Awesome-Profile-README-templates). Desculpa, listar todo mundo aqui vai ocupar muito espaço.
 
 Ícones por [Icongram](https://icongr.am)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ribeirolucas&layout=compact" alt="Top languages" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ribeirolucas&layout=compact" alt="Top languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=1ribeirolucas&show_icons=true&theme=highcontrast&count_private=true" alt="Github Status" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=1ribeirolucas&show_icons=true&theme=highcontrast&count_private=true" alt="Github Status" />
+</div>
 
 
 ***
