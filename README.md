@@ -9,7 +9,7 @@
 ## Sobre mim :octocat:
 <ul align="left">
   <li>Meu nome é Lucas, mas pode me chamar de Bardo;</li>
-  <li>Atualmente desenvolvimento web na <strong>Trybe</strong>, no módulo de back-end/backend;</li>
+  <li>Atualmente estudo desenvolvimento web na <strong>Trybe</strong>, no módulo de back-end/backend;</li>
   <li>Gosto bastante de CSS;</li>
   <li>Não uso Ruby há muito tempo, mas gosto bastante;</li>
   <li>Nas horas vagas eu escrevo músicas e jogo videogames antigos</li>
